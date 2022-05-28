@@ -30,7 +30,7 @@ INT     : 2 (010) // little endian 32 bit integer
 DOUBLE  : 3 (011) // little endian 64 bit float
 ARRAY   : 4 (100) // sequence of any other value
 OBJECT  : 5 (101) // sequence of alternating bipf encoded key and value
-BOOLNULL: 6 (110) // a boolean, or null
+BOOLNULL: 6 (110) // 1 = true, 0 = false, no value means null
 EXTENDED: 7 (111) // custom type. Specific type should be indicated by varint at start of buffer
 ```
 
