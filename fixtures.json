@@ -20,6 +20,11 @@
     "binary": "22ffffffff"
   },
   {
+    "name": "double literal: 1.234",
+    "json": "312e323334",
+    "binary": "435839b4c876bef33f"
+  },
+  {
     "name": "bool literal: true",
     "json": "74727565",
     "binary": "0e01"
@@ -58,6 +63,11 @@
     "name": "string: hello",
     "json": "2268656c6c6f22",
     "binary": "2868656c6c6f"
+  },
+  {
+    "name": "string: möterhead",
+    "json": "226dc3b67465726865616422",
+    "binary": "506dc3b674657268656164"
   },
   {
     "name": "object with on key-value pair",
