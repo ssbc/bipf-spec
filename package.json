@@ -1,0 +1,12 @@
+{
+  "name": "bipf-spec",
+  "description": "binary in-place format specification",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ssbc/bipf-spec",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssbc/bipf-spec.git"
+  },
+  "author": "Anders Rune Jensen <arj03@protonmail.ch>",
+  "license": "MIT"
+}
