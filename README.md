@@ -48,6 +48,7 @@ For a detailed motivation, please refer to: https://github.com/ssbc/bipf#motivat
  - JS: https://github.com/ssbc/bipf/
  - Go: https://git.sr.ht/~cryptix/go-exp/tree/bipf/item/bipf
  - Rust: https://github.com/jerive/bipf-rs
+ - Nim: https://github.com/BundleFeed/nim_bipf (npm package with JS compiled version: https://www.npmjs.com/package/nim_bipf)
 
 
 [varint]: https://en.wikipedia.org/wiki/LEB128#Unsigned_LEB128
